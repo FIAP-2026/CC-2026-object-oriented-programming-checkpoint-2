@@ -1,1 +1,8 @@
-# CC-2026-object-oriented-programming-checkpoint-2
+﻿# Object-Oriented Programming
+
+**Ciclo:** checkpoint-2  
+**Semestre:** semestre:s3  
+**Ano:** 2026  
+
+> Repositorio publico criado para a disciplina **Object-Oriented Programming** no contexto do ciclo **checkpoint-2** (FIAP 2026).
+
